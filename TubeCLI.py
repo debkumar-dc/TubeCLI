@@ -77,7 +77,7 @@ def animate_printing(banner, delay=0.05, sleep_time=0.002):
 def splash_screen():
     banner = [
         f"{CYAN}{BOLD}╔════════════════════════════════════════════════════════════════════════╗{RESET}",
-        f"{CYAN}{BOLD}║{RESET}   {MAGENTA}🎬  YOUTUBE DOWNLOADER: {YELLOW}1080P HDR {GREEN}+ HD AUDIO 5.1 E-AC3 {WHITE}+ SUBTITLE{RESET}    {CYAN}{BOLD}║{RESET}",
+        f"{CYAN}{BOLD}║{RESET}   {MAGENTA}🎬  TubeCLI Downloader: {YELLOW}1080P HDR {GREEN}+ HD AUDIO 5.1 E-AC3 {WHITE}+ SUBTITLE{RESET}    {CYAN}{BOLD}║{RESET}",
         f"{CYAN}{BOLD}║{RESET}   {BLUE}⚡ Powered by yt-dlp + ffmpeg ⚡{RESET}                                     {CYAN}{BOLD}║{RESET}",
         f"{CYAN}{BOLD}║{RESET}   {WHITE}Press {GREEN}[U]{RESET}{WHITE} to Update, {RED}[ESC]{RESET}{WHITE} to Exit, or Paste URL...                {RESET}  {CYAN}{BOLD}║{RESET}",
         f"{CYAN}{BOLD}╚════════════════════════════════════════════════════════════════════════╝{RESET}"
